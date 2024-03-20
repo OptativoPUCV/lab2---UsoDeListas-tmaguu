@@ -10,3 +10,9 @@ exercises.c:51:8: error: implicit declaration of function ‘push_back’; did y
 cc1: all warnings being treated as errors
 Compilation failed
 f0f5d9d
+Wed 20 Mar 2024 08:18:09 PM UTC: 
+ exercises.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  1|4
+total_score: 10/70
+a212a7b
